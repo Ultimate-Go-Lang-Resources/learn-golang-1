@@ -19,6 +19,8 @@ www.golang.org/doc/effective_go.html - Effective Go
 
 www.golang.org/pkg/ - Go Packages
 
+www.learnxinyminutes.com/docs/go/ - Tutorial showing the use of the Standard Library to perform multiple tasks
+
 # Go Playground
 
 www.play.golang.org/ - Test your code online
