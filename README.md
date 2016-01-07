@@ -10,6 +10,8 @@ Learn Go language with examples
 
 [First Take A Tour of Go](http://tour.golang.org/welcome/1)
 
+[Read-An Introduction to Programming in Go](www.golang-book.com)
+
 [Effective Go](www.golang.org/doc/effective_go.html)
 
 [The Go Programming Language Documentation](www.golang.org/doc/)
@@ -17,8 +19,6 @@ Learn Go language with examples
 [Explore some of the community-driven initiatives](www.github.com/golang/go/wiki/Learn)
 
 [Explore some of the projects written in Go](www.github.com/golang/go/wiki/Projects)
-
-[An Introduction to Programming in Go](www.golang-book.com)
 
 [Go Packages](www.golang.org/pkg/)
 
