@@ -2,30 +2,35 @@
 
 Learn Go language with examples 
 
+#Get Started
+
+[Download Go](www.golang.org/dl/)
 
 # Resources
 
-www.golang.org/doc/ - The Go Programming Language Documentation
+Take [A Tour of Go](http://tour.golang.org/welcome/1)
 
-www.golang.org/dl/ - Download Go
+[Effective Go](www.golang.org/doc/effective_go.html)
 
-www.github.com/golang/go/wiki/Learn - Explore some of the community-driven initiatives
+[The Go Programming Language Documentation](www.golang.org/doc/)
 
-www.github.com/golang/go/wiki/Projects - Explore some of the projects written in Go
+[Explore some of the community-driven initiatives](www.github.com/golang/go/wiki/Learn)
 
-www.golang-book.com - An Introduction to Programming in Go
+[Explore some of the projects written in Go](www.github.com/golang/go/wiki/Projects)
 
-www.golang.org/doc/effective_go.html - Effective Go
+[An Introduction to Programming in Go](www.golang-book.com)
 
-www.golang.org/pkg/ - Go Packages
+[Go Packages](www.golang.org/pkg/)
 
-www.learnxinyminutes.com/docs/go/ - Tutorial showing the use of the Standard Library to perform multiple tasks
+[Tutorial showing the use of the Standard Library to perform multiple tasks](www.learnxinyminutes.com/docs/go/)
 
 # Go Playground
 
-www.play.golang.org/ - Test your code online
+[Test your code online](www.play.golang.org/)
 
 # FAQ
 
-www.golang.org/doc/faq - Frequently Asked Questions
+[Frequently Asked Questions](www.golang.org/doc/faq)
+
+#Code for today, don’t guess the future
 
