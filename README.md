@@ -8,7 +8,7 @@ Learn Go language with examples
 
 # Resources
 
-Take [A Tour of Go](http://tour.golang.org/welcome/1)
+[First Take A Tour of Go](http://tour.golang.org/welcome/1)
 
 [Effective Go](www.golang.org/doc/effective_go.html)
 
