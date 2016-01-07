@@ -1,3 +1,4 @@
+#Code for today, don’t guess the future
 #Learn golang
 
 Learn Go language with examples 
@@ -31,6 +32,4 @@ Learn Go language with examples
 # FAQ
 
 [Frequently Asked Questions](www.golang.org/doc/faq)
-
-#Code for today, don’t guess the future
 
