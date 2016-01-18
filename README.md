@@ -3,7 +3,7 @@
 
 Learn Go language with examples 
 ```
-git clone https://github.com/Jetlum/learn-golang
+$ git clone https://github.com/Jetlum/learn-golang
 ```
 
 #Get Started
