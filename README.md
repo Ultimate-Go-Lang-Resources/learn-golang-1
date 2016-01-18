@@ -2,6 +2,9 @@
 #Learn golang
 
 Learn Go language with examples 
+```
+git clone https://github.com/Jetlum/learn-golang
+```
 
 #Get Started
 
@@ -32,4 +35,6 @@ Test your code online-www.play.golang.org/
 # FAQ
 
 Frequently Asked Questions-www.golang.org/doc/faq
+
+# Feel free to contribute
 
