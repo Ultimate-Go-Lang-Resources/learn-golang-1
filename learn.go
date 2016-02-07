@@ -72,29 +72,29 @@ func main() {
 
 	switch nota { //Looks the value of a variable and than prints the adequate case
 	case 5:
-		fmt.Println("Nota juaj eshte 5")
+		fmt.Println("Your grade is 5")
 	case 4:
-		fmt.Println("Nota juaj eshte 4")
+		fmt.Println("Your grade is 4")
 	case 3:
-		fmt.Println("Nota juaj eshte 3")
+		fmt.Println("Your grade is 3")
 	case 2:
-		fmt.Println("Nota juaj eshte 2")
+		fmt.Println("Your grade is 2")
 	case 1:
-		fmt.Println("Nota juaj eshte 1")
+		fmt.Println("Your grade is 1")
 	}
 	switch piket {
 	case 95:
-		fmt.Println("Shkelqyeshem")
+		fmt.Println("Excellent")
 	case 84:
-		fmt.Println("Shume Mire")
+		fmt.Println("Very Good")
 	case 73:
-		fmt.Println("Mire")
+		fmt.Println("Good")
 	case 62:
-		fmt.Println("Mjaftueshem")
+		fmt.Println("Enough")
 	case 51:
-		fmt.Println("Dobet")
+		fmt.Println("Failed")
 	default: //If none of the above options is true
-		fmt.Println("Duhet te perserisni provimin")
+		fmt.Println("You have to repeat the exam")
 	}
 	/* local variable definition */
 	points := make(chan string)
