@@ -3,13 +3,13 @@ package main
 import (
 	"bytes"         //Imports the bytes package
 	"encoding/json" //Imports the json package
-	"errors"        //Imports the errors pasckage
+	"errors"        //Imports the errors package
 	"fmt"           //Imports the formating package
 	"math"          //Imports the math package
 	"math/rand"     //Imports the math/rand package
 	"os"            //Imports the os package
 	"regexp"        //Imports the regexp package
-	"runtime"       //Imports the runtime pacage
+	"runtime"       //Imports the runtime package
 	"sort"          //Imports the sort package
 	"strings"       //Imports the strings package
 	"sync"          //Imports the sync package
