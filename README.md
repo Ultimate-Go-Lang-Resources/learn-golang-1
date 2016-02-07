@@ -1,7 +1,9 @@
-#Code for today, don’t guess the future
+#Code for today,don’t guess the future
 #Learn golang
 
 Learn Go language with examples 
+
+Clone this repository
 ```
 $ git clone https://github.com/Jetlum/learn-golang
 ```
