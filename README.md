@@ -1,4 +1,4 @@
-#Code for today,don’t guess the future
+﻿#Code for today,don’t guess the future
 #Learn golang
 
 Learn Go language with examples 
@@ -27,6 +27,8 @@ Explore some of the community-driven initiatives-www.github.com/golang/go/wiki/L
 Explore some of the projects written in Go-www.github.com/golang/go/wiki/Projects
 
 Go Packages-www.golang.org/pkg/
+
+Go by example-www.gobyexample.com/
 
 Tutorial showing the use of the Standard Library to perform multiple tasks-www.learnxinyminutes.com/docs/go/
 
