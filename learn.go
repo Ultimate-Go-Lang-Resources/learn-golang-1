@@ -28,7 +28,7 @@ var m int = 25
 func main() {
 	fmt.Println("Hello world") //Prints on the screen the word Hello world
 	fmt.Println(5 + 2)         //Prints the result of 5+2
-	fmt.Println(5 * 2)         //Prints the result of 5/2
+	fmt.Println(5 * 2)         //Prints the result of 5*2
 	var a int                  //a is a variable of type integer
 	a = 50 + 25
 	fmt.Println("a is:", a)              //Prints the string a is and then the value of a
