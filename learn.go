@@ -51,7 +51,7 @@ func main() {
 
 	fmt.Println("Hello\t\t\tWorld!")         // \t stands for tab creates space between two elements
 	fmt.Println("Alarm ringing or bell\a\a") // \a stands for alarm
-	/*It is a good programming practice to define constants in CAPITALS.*/
+	//It is a good programming practice to define constants in CAPITALS.
 	const LENGTH int = 5 //Initialized a constant variable of type int
 	const WIDTH int = 20 //Initialized a constant variable of type int
 	var s int
