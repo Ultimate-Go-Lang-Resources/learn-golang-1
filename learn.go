@@ -70,7 +70,7 @@ func main() {
 	var piket int = 95
 	var nota int = 5
 
-	switch nota { //Looks the value of a variable and than prints the adequate case
+	switch nota { //Looks the value of a variable and then prints the adequate case
 	case 5:
 		fmt.Println("Your grade is 5")
 	case 4:
