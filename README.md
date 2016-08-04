@@ -10,35 +10,37 @@ $ git clone https://github.com/Jetlum/learn-golang
 
 #Get Started
 
-Download Go-www.golang.org/dl/
+[Download Go](https://golang.org/dl/) 
 
 # Resources
 
-First Take A Tour of Go-http://tour.golang.org/welcome/1
+[First Take A Tour of Go](http://tour.golang.org/welcome/1) 
 
-Read-An Introduction to Programming in Go-www.golang-book.com
+[Read-An Introduction to Programming in Go](https://golang-book.com)
 
-Effective Go-www.golang.org/doc/effective_go.html
+[Effective Go](https://golang.org/doc/effective_go.html)
 
-The Go Programming Language Documentation-www.golang.org/doc/
+[The Go Programming Language Documentation](https://golang.org/doc/)
 
-Explore some of the community-driven initiatives-www.github.com/golang/go/wiki/Learn
+[Explore some of the community-driven initiatives](https://github.com/golang/go/wiki/Learn)
 
-Explore some of the projects written in Go-www.github.com/golang/go/wiki/Projects
+[Explore some of the projects written in Go](https://github.com/golang/go/wiki/Projects)
 
-Go Packages-www.golang.org/pkg/
+[Go Packages](https://golang.org/pkg/)
 
-Go by example-www.gobyexample.com/
+[Go by example](https://gobyexample.com/)
 
-Tutorial showing the use of the Standard Library to perform multiple tasks-www.learnxinyminutes.com/docs/go/
+[Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
+
+[Going Go Programming](https://www.goinggo.net/)
 
 # Go Playground
 
-Test your code online-www.play.golang.org/
+[Test your code online](https://play.golang.org/)
 
 # FAQ
 
-Frequently Asked Questions-www.golang.org/doc/faq
+[Frequently Asked Questions](https://golang.org/doc/faq)
 
 # Feel free to contribute
 
